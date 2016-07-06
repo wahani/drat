@@ -1,0 +1,9 @@
+Package: dat
+Version: 0.0.6
+Depends: methods, aoos
+Imports: data.table, dplyr, magrittr, tibble
+Suggests: testthat, knitr, microbenchmark, rmarkdown, nycflights13
+License: MIT + file LICENSE
+MD5sum: f16fdeb77bc67a0b330c35b41250c498
+NeedsCompilation: no
+
